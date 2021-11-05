@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joanavaldezz
 - 👀 I’m interested in ... Anything with the outdoors.
-- 🌱 I’m currently learning ... About Loops, Boolean Opreations!
+- 🌱 I’m currently learning ... About Loops, Boolean Opreations, and Conditions.
 - 💞️ I’m looking to collaborate on ... With anyone that is willing to collaborate
 - 📫 How to reach me ... you can reach me through email @joanarkansas@hotmail.com or twitter:)
 
