@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joanavaldezz
 - 👀 I’m interested in ... Anything with the outdoors.
-- 🌱 I’m currently learning ... About coding 
-- 💞️ I’m looking to collaborate on ... With anyone t.hat is willing to collaborate
-- 📫 How to reach me ... you can reach me through email @joanarkansas@hotmail.com
+- 🌱 I’m currently learning ... About Loops, Boolean Opreations!
+- 💞️ I’m looking to collaborate on ... With anyone that is willing to collaborate
+- 📫 How to reach me ... you can reach me through email @joanarkansas@hotmail.com or twitter:)
 
 <!---
 joanavaldezz/joanavaldezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
